@@ -1,9 +1,13 @@
 {
+  "scripts": {
+    "start": "parcel index.html "
+  },
   "devDependencies": {
     "typescript": "^4.7.4"
   },
   "dependencies": {
     "@faker-js/faker": "^7.4.0",
-    "@types/google.maps": "^3.49.2"
+    "@types/google.maps": "^3.49.2",
+    "parcel-bundler": "^1.12.5"
   }
 }
